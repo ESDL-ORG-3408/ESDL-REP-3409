@@ -6,6 +6,7 @@ int main()
   cout<<"welcome to github";
 <<<<<<< HEAD
 cout<<"priyanka";
+cout<<"vedika";
 =======
   cout<<"hi this is me";
 >>>>>>> origin/master
